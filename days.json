@@ -1,1 +1,93 @@
-[]
+[
+ {
+  "date": "2026-10-19",
+  "title": "冷えた市場と、閉じていく格子",
+  "mood": [
+   "冷え",
+   "ざわつき中",
+   "閉じていく"
+  ],
+  "caption": "株が大きく下がった月曜の朝。うねりながら走る紺の線は、日経平均の790円安。灰色の四角い格子は、データセンターやクラウドに国の安全認証をつけて外の国を締め出す動き。黄土色のゆるい波は、中国の景気がゆっくり鈍っていく様子。そのあいだに散らばる朱の破片は、安いAIモデルがあちこちで値下げ競争を起こしていること。",
+  "art": {
+   "bg": "#ece8df",
+   "layers": [
+    {
+     "alpha": 0.6,
+     "color": 1,
+     "count": 10,
+     "kind": "bloom",
+     "size": 0.8
+    },
+    {
+     "alpha": 0.8,
+     "chaos": 0.6,
+     "color": 0,
+     "count": 160,
+     "kind": "flow",
+     "size": 0.5
+    },
+    {
+     "alpha": 0.7,
+     "chaos": 0.4,
+     "color": 2,
+     "count": 26,
+     "kind": "grid",
+     "size": 0.45
+    },
+    {
+     "alpha": 0.7,
+     "chaos": 0.25,
+     "color": 3,
+     "count": 9,
+     "kind": "waves",
+     "size": 0.25
+    },
+    {
+     "alpha": 0.9,
+     "chaos": 0.9,
+     "color": 4,
+     "count": 12,
+     "kind": "shards",
+     "size": 0.15
+    },
+    {
+     "alpha": 0.5,
+     "color": 2,
+     "count": 40,
+     "kind": "grain",
+     "size": 0.3
+    }
+   ],
+   "palette": [
+    "#2f4b7c",
+    "#8fa9c4",
+    "#3a3a3a",
+    "#c9a35a",
+    "#e4572e"
+   ],
+   "seed": 20261019
+  },
+  "sources": [
+   {
+    "role": "紺の流れ（市場の冷え）",
+    "title": "日経平均午前790円安、途切れぬコアウィーブ不安 内需株に光明",
+    "url": "https://www.nikkei.com/article/DGXZQOUB1826WTY6A011C2000000/"
+   },
+   {
+    "role": "灰色の格子（閉じていく境界）",
+    "title": "データセンター・クラウド、国が安全認証へ 中国系を事実上排除",
+    "url": "https://www.nikkei.com/article/DGXZQOUA171BY0X11C26A0000000/"
+   },
+   {
+    "role": "黄土色の波（ゆるやかな減速）",
+    "title": "中国実質GDP、7〜9月4.5%増 政府通年目標の下限",
+    "url": "https://www.nikkei.com/article/DGXZQOGM168OY0W6A011C2000000/"
+   },
+   {
+    "role": "朱の破片（値下げの火花）",
+    "title": "中国DeepSeek、低料金の新AIモデル ハイテク株安に影響も",
+    "url": "https://www.nikkei.com/article/DGXZQOGM191S10Z11C26A0000000/"
+   }
+  ]
+ }
+]

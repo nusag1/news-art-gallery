@@ -1,5 +1,100 @@
 [
  {
+  "date": "2026-10-21",
+  "title": "持ち直す陽と、ずれていく波",
+  "mood": [
+   "持ち直し",
+   "よどみ",
+   "警戒"
+  ],
+  "caption": "株が545円戻した水曜日。まん中の大きな金色の丸は、AI関連が反発して日経平均が持ち直したこと。その下を走る緑の線は、銀行に代わってファンドが企業にお金を貸しはじめた新しい流れ。青灰色の波は、ドイツとフランスの金利差が14年ぶりに開いて、ヨーロッパの足もとがずれていく様子。散らばる暗い赤の破片は、子会社の元CFOの着服疑いと、AIを使った不正アクセス。明るい日の中にも、小さなひびがあちこちにある一日。",
+  "art": {
+   "seed": 20261021,
+   "bg": "#efeae0",
+   "palette": [
+    "#d9a441",
+    "#4f7c63",
+    "#6d8299",
+    "#8c2f39",
+    "#2f3b52"
+   ],
+   "layers": [
+    {
+     "kind": "bloom",
+     "color": 0,
+     "count": 8,
+     "size": 0.7,
+     "alpha": 0.45
+    },
+    {
+     "kind": "waves",
+     "color": 2,
+     "count": 11,
+     "size": 0.3,
+     "chaos": 0.35,
+     "alpha": 0.7
+    },
+    {
+     "kind": "flow",
+     "color": 1,
+     "count": 140,
+     "size": 0.45,
+     "chaos": 0.35,
+     "alpha": 0.75
+    },
+    {
+     "kind": "sun",
+     "color": 0,
+     "count": 1,
+     "size": 0.55,
+     "alpha": 0.85
+    },
+    {
+     "kind": "shards",
+     "color": 3,
+     "count": 10,
+     "size": 0.14,
+     "chaos": 0.85,
+     "alpha": 0.9
+    },
+    {
+     "kind": "grain",
+     "color": 4,
+     "count": 30,
+     "size": 0.25,
+     "alpha": 0.5
+    }
+   ]
+  },
+  "sources": [
+   {
+    "title": "日経平均株価、終値545円高 ソフトバンクGが占うAI関連の反発力",
+    "url": "https://www.nikkei.com/article/DGXZQOUB2109LTR21C26A0000000/",
+    "role": "金色の大きな丸"
+   },
+   {
+    "title": "銀行貸し出しに迫る限界 ファンドが企業融資（ながら日経 10/21）",
+    "url": "https://podcasts.apple.com/jp/podcast/id1627014612",
+    "role": "緑の流れ"
+   },
+   {
+    "title": "独仏金利差が14年ぶりの大きさ 警戒感増す仏国債格下げリスク",
+    "url": "https://www.nikkei.com/article/DGXZQOFL210F5TR21C26A0000000/",
+    "role": "青灰色の波"
+   },
+   {
+    "title": "ソフトバンク子会社の元CFO再逮捕 2.9億円着服疑い、FX損失補塡か",
+    "url": "https://www.nikkei.com/article/DGXZQOUD162D40W6A011C2000000/",
+    "role": "暗い赤の破片"
+   },
+   {
+    "title": "不正アクセス 中国系AI「ARTEX」で日本攻撃（ながら日経 10/21）",
+    "url": "https://podcasts.apple.com/jp/podcast/id1627014612",
+    "role": "暗い赤の破片・紺の粒"
+   }
+  ]
+ },
+ {
   "date": "2026-10-19",
   "title": "冷えた市場と、閉じていく格子",
   "mood": [

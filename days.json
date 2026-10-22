@@ -1,5 +1,90 @@
 [
  {
+  "date": "2026-10-22",
+  "title": "止まった回線と、あふれる預金",
+  "mood": [
+   "ざわつき",
+   "冷え",
+   "整列"
+  ],
+  "caption": "PHPの欠陥で銀行や通信のサービスが止まった話は、赤い破片にしました。短期の定期預金にお金が流れこむ話は、金色の流れが一方向へ集まっていくところ。戦略17分野の順序づけは、きっちり並んだ格子です。ざわついているのに、どこか整列しようとしている一日でした。",
+  "art": {
+   "seed": 20261022,
+   "bg": "#e9e6df",
+   "palette": [
+    "#c23e2a",
+    "#d9a441",
+    "#2a4a96",
+    "#5d6273",
+    "#1d2230"
+   ],
+   "layers": [
+    {
+     "kind": "bloom",
+     "color": 3,
+     "count": 6,
+     "size": 0.8,
+     "chaos": 0.3,
+     "alpha": 0.25
+    },
+    {
+     "kind": "grid",
+     "color": 2,
+     "count": 17,
+     "size": 0.6,
+     "chaos": 0.15,
+     "alpha": 0.55
+    },
+    {
+     "kind": "flow",
+     "color": 1,
+     "count": 220,
+     "size": 0.5,
+     "chaos": 0.25,
+     "alpha": 0.8
+    },
+    {
+     "kind": "shards",
+     "color": 0,
+     "count": 26,
+     "size": 0.55,
+     "chaos": 0.85,
+     "alpha": 0.85
+    },
+    {
+     "kind": "grain",
+     "color": 4,
+     "count": 9,
+     "size": 0.2,
+     "chaos": 0.6,
+     "alpha": 0.5
+    }
+   ]
+  },
+  "sources": [
+   {
+    "title": "PHP欠陥、銀行や通信でもサービス停止広がる みずほ銀など一部復旧",
+    "url": "https://www.nikkei.com/article/DGXZQOUC220J30S6A021C2000000/",
+    "role": "赤い破片（急に止まったサービス）"
+   },
+   {
+    "title": "｢短期｣定期預金に資金殺到、31年ぶり高水準 利上げ加速で高金利狙う",
+    "url": "https://www.nikkei.com/article/DGXZQOUB151S20V11C26A0000000/",
+    "role": "金色の流れ（一方向に集まるお金）"
+   },
+   {
+    "title": "高市政権、戦略17分野を順序づけ 半導体・水素など事業段階で3分類",
+    "url": "https://www.nikkei.com/article/DGXZQOUA193BF0Z11C26A0000000/",
+    "role": "青い格子（17本の線で順序づけ）"
+   },
+   {
+    "title": "ながら日経：企業の適時開示 東証がAIでひな型作成、マンション高騰抑制策",
+    "url": "https://podcasts.apple.com/jp/podcast/id1627014612",
+    "role": "細かい粒（たくさんの小さな開示）"
+   }
+  ]
+ },
+ {
   "date": "2026-10-21",
   "title": "持ち直す陽と、ずれていく波",
   "mood": [

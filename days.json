@@ -1,5 +1,90 @@
 [
  {
+  "date": "2026-10-24",
+  "title": "ひびの入った追い風",
+  "mood": [
+   "ざわつき",
+   "冷え",
+   "まとまる"
+  ],
+  "caption": "AIブームに黄信号という見出しは、上へ向かう金色の流れに入ったひびにしました。新卒内定が多くの業種で減ったニュースは、うすく冷えた青のにじみに。まだ脆弱性が出てくるという予告は、こまかく散る赤い破片です。地方銀行どうしの経営統合は、二つの輪が重なるところで描きました。",
+  "art": {
+   "seed": 20261024,
+   "bg": "#e9e6df",
+   "palette": [
+    "#7d93ad",
+    "#c9a24a",
+    "#b8453a",
+    "#3f5566",
+    "#2b2b2b"
+   ],
+   "layers": [
+    {
+     "kind": "bloom",
+     "color": 0,
+     "count": 7,
+     "size": 0.75,
+     "chaos": 0.3,
+     "alpha": 0.4
+    },
+    {
+     "kind": "flow",
+     "color": 1,
+     "count": 190,
+     "size": 0.5,
+     "chaos": 0.55,
+     "alpha": 0.75
+    },
+    {
+     "kind": "rings",
+     "color": 3,
+     "count": 2,
+     "size": 0.5,
+     "chaos": 0.15,
+     "alpha": 0.6
+    },
+    {
+     "kind": "shards",
+     "color": 2,
+     "count": 26,
+     "size": 0.35,
+     "chaos": 0.8,
+     "alpha": 0.8
+    },
+    {
+     "kind": "grain",
+     "color": 4,
+     "count": 10,
+     "size": 0.2,
+     "chaos": 0.5,
+     "alpha": 0.5
+    }
+   ]
+  },
+  "sources": [
+   {
+    "title": "イチから分かるコアウィーブ・ショック AIブームに黄信号？",
+    "url": "https://www.nikkei.com/article/DGXZQOCD198Q70Z11C26A0000000/",
+    "role": "金色の流れとひび（shards）"
+   },
+   {
+    "title": "新卒内定人数、過半の23業種で減少 大卒文系は5年ぶりマイナス",
+    "url": "https://www.nikkei.com/article/DGXZQOUC15BSR0V11C26A0000000/",
+    "role": "冷えた青のにじみ（bloom）"
+   },
+   {
+    "title": "PHP並みの脆弱性「まだ出てくる」 米クラウドフレアCEOが予告",
+    "url": "https://www.nikkei.com/article/DGXZQOGN23C8Y0T21C26A0000000/",
+    "role": "赤い破片と粒（shards・grain）"
+   },
+   {
+    "title": "ながら日経：滋賀銀行・池田泉州HD 経営統合へ、防衛費の対象経費を拡大へ",
+    "url": "https://podcasts.apple.com/jp/podcast/id1627014612",
+    "role": "重なる二つの輪（rings）"
+   }
+  ]
+ },
+ {
   "date": "2026-10-22",
   "title": "止まった回線と、あふれる預金",
   "mood": [

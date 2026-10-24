@@ -1,5 +1,85 @@
 [
  {
+  "date": "2026-10-25",
+  "title": "ざわめく画面と静かな町",
+  "mood": [
+   "ざわつき",
+   "張りつめ",
+   "あたたかさ"
+  ],
+  "caption": "若者の怒りがSNSで増幅されるという見出しは、画面いっぱいに散るこまかな粒と赤い破片にしました。能動的サイバー防御の要請は、きっちりした格子です。真ん中の小さな日だまりは、持たざる町が転入者を呼び込んだ10年の話。騒がしい日でも、どこかにしずかな明かりがある、という気分で描きました。",
+  "art": {
+   "seed": 20261025,
+   "bg": "#e6e9ee",
+   "palette": [
+    "#c9cfd8",
+    "#c4433a",
+    "#2f4a6b",
+    "#e0a23c",
+    "#3a3a3a"
+   ],
+   "layers": [
+    {
+     "kind": "bloom",
+     "color": 0,
+     "count": 6,
+     "size": 0.7,
+     "chaos": 0.4,
+     "alpha": 0.5
+    },
+    {
+     "kind": "grid",
+     "color": 2,
+     "count": 9,
+     "size": 0.45,
+     "chaos": 0.1,
+     "alpha": 0.55
+    },
+    {
+     "kind": "shards",
+     "color": 1,
+     "count": 30,
+     "size": 0.3,
+     "chaos": 0.85,
+     "alpha": 0.75
+    },
+    {
+     "kind": "sun",
+     "color": 3,
+     "count": 1,
+     "size": 0.22,
+     "chaos": 0.05,
+     "alpha": 0.85
+    },
+    {
+     "kind": "grain",
+     "color": 4,
+     "count": 16,
+     "size": 0.18,
+     "chaos": 0.9,
+     "alpha": 0.55
+    }
+   ]
+  },
+  "sources": [
+   {
+    "title": "怒れる若者、米中間選挙に嵐呼ぶ 「AI・腐敗・戦争」SNSで増幅",
+    "url": "https://www.nikkei.com/article/DGXZQOGN20BVY0Q6A021C2000000/",
+    "role": "散る粒と赤い破片（grain・shards）"
+   },
+   {
+    "title": "能動的サイバー防御をGMO要請 適用は政府判断、重大・緊急性考慮",
+    "url": "https://www.nikkei.com/article/DGXZQOUA241IB0U6A021C2000000/",
+    "role": "紺の格子（grid）"
+   },
+   {
+    "title": "埼玉・横瀬、「持たざる町」の逆説戦略 転入者呼び込んだ10年",
+    "url": "https://www.nikkei.com/article/DGXZQOCC157SK0V10C26A9000000/",
+    "role": "小さな日だまり（sun）"
+   }
+  ]
+ },
+ {
   "date": "2026-10-24",
   "title": "ひびの入った追い風",
   "mood": [

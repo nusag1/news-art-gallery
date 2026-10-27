@@ -1,5 +1,98 @@
 [
  {
+  "date": "2026-10-27",
+  "title": "霧雨の街で、光を貼る壁",
+  "mood": [
+   "しっとり",
+   "静かな熱",
+   "線を引く"
+  ],
+  "caption": "KDDIのフィジカルAIは、機械の中を流れる青い計算の線に。副首都の絞り込みと千代田区の転売禁止要請は、地図に引かれる格子として重ねました。UAゼンセンの賃上げ要求は、暮らしを押し上げる暖かい波。いちばん明るい丸は、建物の壁が発電するかもしれないペロブスカイトの量産です。",
+  "art": {
+   "seed": 20261027,
+   "bg": "#e6e9ea",
+   "palette": [
+    "#9fb3bf",
+    "#2f5d8a",
+    "#d98b4a",
+    "#5a5f66",
+    "#f2c14e"
+   ],
+   "layers": [
+    {
+     "kind": "bloom",
+     "color": 0,
+     "count": 6,
+     "size": 0.8,
+     "chaos": 0.3,
+     "alpha": 0.5
+    },
+    {
+     "kind": "waves",
+     "color": 2,
+     "count": 7,
+     "size": 0.5,
+     "chaos": 0.35,
+     "alpha": 0.6
+    },
+    {
+     "kind": "flow",
+     "color": 1,
+     "count": 180,
+     "size": 0.45,
+     "chaos": 0.5,
+     "alpha": 0.75
+    },
+    {
+     "kind": "grid",
+     "color": 3,
+     "count": 9,
+     "size": 0.5,
+     "chaos": 0.15,
+     "alpha": 0.45
+    },
+    {
+     "kind": "sun",
+     "color": 4,
+     "count": 1,
+     "size": 0.35,
+     "chaos": 0.1,
+     "alpha": 0.85
+    },
+    {
+     "kind": "grain",
+     "color": 0,
+     "count": 12,
+     "size": 0.2,
+     "chaos": 0.6,
+     "alpha": 0.5
+    }
+   ]
+  },
+  "sources": [
+   {
+    "title": "KDDIのフィジカルAI、NVIDIAの最新半導体実装 課題は情報漏洩対策",
+    "url": "https://www.nikkei.com/article/DGXZQOUC225JR0S6A021C2000000/",
+    "role": "青い流れ"
+   },
+   {
+    "title": "副首都、人口・経済で4道府県に絞り込み 薄れる災害時の東京圏代替",
+    "url": "https://www.nikkei.com/article/DGXZQOUA236LW0T21C26A0000000/",
+    "role": "格子"
+   },
+   {
+    "title": "UAゼンセン、賃上げ要求6%で調整格差是正へパートは7%軸",
+    "url": "https://www.nikkei.com/article/DGXZQOUC265BV0W6A021C2000000/",
+    "role": "暖かい波"
+   },
+   {
+    "title": "ながら日経 10月27日（火）三菱地所系マンションに5年転売禁止要請、ペロブスカイト官民で量産へ",
+    "url": "https://podcasts.apple.com/jp/podcast/id1627014612",
+    "role": "格子と大きな丸"
+   }
+  ]
+ },
+ {
   "date": "2026-10-25",
   "title": "ざわめく画面と静かな町",
   "mood": [

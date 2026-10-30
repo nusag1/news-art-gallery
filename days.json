@@ -1,5 +1,108 @@
 [
  {
+  "date": "2026-10-31",
+  "title": "締まる空と、こぼれる流れ",
+  "mood": [
+   "引き締め",
+   "冷えこみ",
+   "ざわめき"
+  ],
+  "caption": "日銀の総裁が利上げを続ける構えというニュースは、上のほうにどっしり座る藍色の大きな丸と、その下の細い格子にしました。ナスダックの3パーセント安とインテル株の急落は、画面を横切る赤い破片に。エーアイ投資への疑いの目は、うすい灰色のにじみとして全体に広げています。仮想通貨の1兆円流出は、外へこぼれていく速い流れ、インフレの中でお手ごろなブランドを選ぶ若い世代は、ところどころに光る小さな桃色の粒です。",
+  "art": {
+   "seed": 20261031,
+   "bg": "#e6e7e9",
+   "palette": [
+    "#b3b8bf",
+    "#24365c",
+    "#c2493d",
+    "#3f7f86",
+    "#e3a6a0"
+   ],
+   "layers": [
+    {
+     "kind": "bloom",
+     "color": 0,
+     "count": 7,
+     "size": 0.85,
+     "chaos": 0.4,
+     "alpha": 0.55
+    },
+    {
+     "kind": "grid",
+     "color": 1,
+     "count": 9,
+     "size": 0.5,
+     "chaos": 0.15,
+     "alpha": 0.45
+    },
+    {
+     "kind": "flow",
+     "color": 3,
+     "count": 200,
+     "size": 0.45,
+     "chaos": 0.75,
+     "alpha": 0.7
+    },
+    {
+     "kind": "shards",
+     "color": 2,
+     "count": 32,
+     "size": 0.35,
+     "chaos": 0.8,
+     "alpha": 0.75
+    },
+    {
+     "kind": "sun",
+     "color": 1,
+     "count": 1,
+     "size": 0.3,
+     "chaos": 0.1,
+     "alpha": 0.85
+    },
+    {
+     "kind": "grain",
+     "color": 4,
+     "count": 9,
+     "size": 0.2,
+     "chaos": 0.55,
+     "alpha": 0.6
+    }
+   ]
+  },
+  "sources": [
+   {
+    "title": "日銀の総裁、利上げ継続「次回含め判断」 近づく引き締め領域",
+    "url": "https://www.nikkei.com/article/DGXZQOUB301C30Q6A031C2000000/",
+    "role": "藍色の大きな丸と格子"
+   },
+   {
+    "title": "米ナスダック総合3%安、5カ月ぶり下げ AI投資の持続性に懐疑の目",
+    "url": "https://www.nikkei.com/article/DGXZQOGN30CPC0Q6A031C2000000/",
+    "role": "赤い破片と灰色のにじみ"
+   },
+   {
+    "title": "米インテル株、29%急落 PC向け不振で約50年ぶりの下落率",
+    "url": "https://www.nikkei.com/article/DGXZQOGN30D050Q6A031C2000000/",
+    "role": "赤い破片"
+   },
+   {
+    "title": "仮想通貨バイナンス1兆円流出 北朝鮮ハッカー集団20分で実行と指摘",
+    "url": "https://www.nikkei.com/article/DGXZQOGN30CLG0Q6A031C2000000/",
+    "role": "こぼれる流れ"
+   },
+   {
+    "title": "お手ごろCOACH、インフレでZ世代支持「プラダを着た悪魔2」で注目",
+    "url": "https://www.nikkei.com/article/DGXZQOGN200PL0Q6A021C2000000/",
+    "role": "桃色の粒"
+   },
+   {
+    "title": "ながら日経 10月30日（金）急増する不正アクセス、私たちはどう守ればいいか",
+    "url": "https://podcasts.apple.com/jp/podcast/id1627014612",
+    "role": "こぼれる流れ"
+   }
+  ]
+ },
+ {
   "date": "2026-10-30",
   "title": "節目の灯と、見えない網",
   "mood": [

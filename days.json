@@ -1,5 +1,116 @@
 [
  {
+  "date": "2026-10-30",
+  "title": "節目の灯と、見えない網",
+  "mood": [
+   "ひと区切り",
+   "張りつめた守り",
+   "ざわめく値札"
+  ],
+  "caption": "日銀の物価目標2パーセント到達の「節目」は、真ん中のあたたかい大きな丸に。サイバー対策でエーアイに弱点を探してもらうニュースは、街をおおう青い格子と、その上を走る細い流れにしました。セブンやユニクロの値上げと体感のずれは、こまかくちらばる赤い破片。3000億円のビル買収と、パナソニックの上振れは、ゆっくり広がる金色の輪として重ねています。",
+  "art": {
+   "seed": 20261030,
+   "bg": "#e9e6e1",
+   "palette": [
+    "#b9c2c9",
+    "#2c4f7c",
+    "#d9a441",
+    "#c4523e",
+    "#5b6770"
+   ],
+   "layers": [
+    {
+     "kind": "bloom",
+     "color": 0,
+     "count": 6,
+     "size": 0.8,
+     "chaos": 0.35,
+     "alpha": 0.5
+    },
+    {
+     "kind": "grid",
+     "color": 1,
+     "count": 10,
+     "size": 0.55,
+     "chaos": 0.2,
+     "alpha": 0.5
+    },
+    {
+     "kind": "flow",
+     "color": 1,
+     "count": 160,
+     "size": 0.4,
+     "chaos": 0.55,
+     "alpha": 0.7
+    },
+    {
+     "kind": "rings",
+     "color": 2,
+     "count": 5,
+     "size": 0.55,
+     "chaos": 0.2,
+     "alpha": 0.55
+    },
+    {
+     "kind": "shards",
+     "color": 3,
+     "count": 26,
+     "size": 0.3,
+     "chaos": 0.65,
+     "alpha": 0.7
+    },
+    {
+     "kind": "sun",
+     "color": 2,
+     "count": 1,
+     "size": 0.32,
+     "chaos": 0.1,
+     "alpha": 0.85
+    },
+    {
+     "kind": "grain",
+     "color": 4,
+     "count": 10,
+     "size": 0.2,
+     "chaos": 0.6,
+     "alpha": 0.45
+    }
+   ]
+  },
+  "sources": [
+   {
+    "title": "日銀・植田総裁、物価目標2%に到達「一つの節目」",
+    "url": "https://www.nikkei.com/article/DGXZQOUB298FK0Z21C26A0000000/",
+    "role": "大きな丸"
+   },
+   {
+    "title": "政府、サイバー対策で米AIにモデル提供拡大を要請 システム脆弱性点検",
+    "url": "https://www.nikkei.com/article/DGXZQOUA2949Z0Z21C26A0000000/",
+    "role": "青い格子と流れ"
+   },
+   {
+    "title": "セブンやユニクロ…5年で1割超す値上げ 「物価上昇率2%」体感とずれ",
+    "url": "https://www.nikkei.com/article/DGXZQOUC29ASZ0Z21C26A0000000/",
+    "role": "赤い破片"
+   },
+   {
+    "title": "「赤坂プリンスホテル」跡地ビル、大和証券G系が3000億円で買収",
+    "url": "https://www.nikkei.com/article/DGXZQOUB295260Z21C26A0000000/",
+    "role": "金色の輪"
+   },
+   {
+    "title": "パナソニックHD今期純利益2.8倍に上振れ 配当は過去最高に",
+    "url": "https://www.nikkei.com/article/DGXZQOUF2863Z0Y6A021C2000000/",
+    "role": "金色の輪"
+   },
+   {
+    "title": "ながら日経 10月30日（金）急増する不正アクセス、私たちはどう守ればいいか",
+    "url": "https://podcasts.apple.com/jp/podcast/id1627014612",
+    "role": "青い格子"
+   }
+  ]
+ },
+ {
   "date": "2026-10-27",
   "title": "霧雨の街で、光を貼る壁",
   "mood": [

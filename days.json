@@ -1,5 +1,98 @@
 [
  {
+  "date": "2026-11-11",
+  "title": "見張る網と、冬ごもりの光",
+  "mood": [
+   "ひえ",
+   "警戒",
+   "小さな芽"
+  ],
+  "caption": "サイバー脅威を平時から探知する話を、夜空に張られた青い格子にしました。AI株安で静まるヘッジファンドとソフトバンクGの大きな赤字は、沈んでいく冷たい波と、にじんだ鈍い大きな丸に。株主のメールアドレス漏洩は、網目からこぼれる赤い破片です。その下で、中小企業のデジタル投資が増えているのを小さな緑の粒にして、冬の中の芽にしました。",
+  "art": {
+   "seed": 20261111,
+   "bg": "#141a24",
+   "palette": [
+    "#2f4a6b",
+    "#6fa3d6",
+    "#c94a3a",
+    "#8a8f99",
+    "#7fc98a"
+   ],
+   "layers": [
+    {
+     "kind": "bloom",
+     "color": 0,
+     "count": 6,
+     "size": 0.8,
+     "chaos": 0.3,
+     "alpha": 0.5
+    },
+    {
+     "kind": "waves",
+     "color": 3,
+     "count": 9,
+     "size": 0.5,
+     "chaos": 0.25,
+     "alpha": 0.55
+    },
+    {
+     "kind": "grid",
+     "color": 1,
+     "count": 14,
+     "size": 0.6,
+     "chaos": 0.15,
+     "alpha": 0.6
+    },
+    {
+     "kind": "sun",
+     "color": 3,
+     "count": 1,
+     "size": 0.45,
+     "chaos": 0.2,
+     "alpha": 0.45
+    },
+    {
+     "kind": "shards",
+     "color": 2,
+     "count": 22,
+     "size": 0.35,
+     "chaos": 0.7,
+     "alpha": 0.8
+    },
+    {
+     "kind": "grain",
+     "color": 4,
+     "count": 9,
+     "size": 0.25,
+     "chaos": 0.5,
+     "alpha": 0.85
+    }
+   ]
+  },
+  "sources": [
+   {
+    "title": "重要インフラのサイバー脅威、自衛隊が平時から探知 安保3文書へ検討",
+    "url": "https://www.nikkei.com/article/DGXZQOUA10BTA0Q6A111C2000000/",
+    "role": "青い格子（見張りの網）"
+   },
+   {
+    "title": "ヘッジファンド、雌伏の冬へ AI株安で戦意喪失「年内は静かに」",
+    "url": "https://www.nikkei.com/article/DGXZQOUB10ARJ0Q6A111C2000000/",
+    "role": "沈む灰色の波"
+   },
+   {
+    "title": "三菱UFJや野村、一部株主のメアド漏洩 アララ不正アクセスで",
+    "url": "https://www.nikkei.com/article/DGXZQOUB118EO0R11C26A1000000/",
+    "role": "網からこぼれる赤い破片"
+   },
+   {
+    "title": "ながら日経 11月11日（水）ソフトバンクG最終赤字7680億円 4〜9月、中小企業のデジタル投資急増 1〜6月最大に",
+    "url": "https://podcasts.apple.com/jp/podcast/id1627014612",
+    "role": "鈍い大きな丸（赤字）と緑の粒（デジタル投資）"
+   }
+  ]
+ },
+ {
   "date": "2026-10-31",
   "title": "締まる空と、こぼれる流れ",
   "mood": [

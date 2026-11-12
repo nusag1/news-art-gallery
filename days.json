@@ -1,5 +1,124 @@
 [
  {
+  "date": "2026-11-13",
+  "title": "王座の空白と、止まった手紙",
+  "mood": [
+   "ざわつき",
+   "空白",
+   "つなぎ直し"
+  ],
+  "caption": "エヌビディアのトップ交代と株安は、真ん中に浮かぶ緑の大きな丸と、そのまわりで震える輪にしました。世界で止まった「365」は、灰色の格子に走る青い破片です。広告3社の統合は、ばらばらの流れがひとつの向きにそろっていく様子に。下剤も内視鏡もいらないAI検査は桃色のにじみ、ながら日経の石油の共同備蓄は底でゆっくり揺れる琥珀色の波です。",
+  "art": {
+   "seed": 20261113,
+   "bg": "#e9e6df",
+   "palette": [
+    "#6f9a5a",
+    "#8a8f99",
+    "#3d6fa8",
+    "#d9a3a0",
+    "#b9803e"
+   ],
+   "layers": [
+    {
+     "kind": "bloom",
+     "color": 3,
+     "count": 7,
+     "size": 0.75,
+     "chaos": 0.25,
+     "alpha": 0.5
+    },
+    {
+     "kind": "waves",
+     "color": 4,
+     "count": 8,
+     "size": 0.4,
+     "chaos": 0.2,
+     "alpha": 0.55
+    },
+    {
+     "kind": "grid",
+     "color": 1,
+     "count": 11,
+     "size": 0.6,
+     "chaos": 0.35,
+     "alpha": 0.55
+    },
+    {
+     "kind": "flow",
+     "color": 1,
+     "count": 180,
+     "size": 0.45,
+     "chaos": 0.35,
+     "alpha": 0.6
+    },
+    {
+     "kind": "sun",
+     "color": 0,
+     "count": 1,
+     "size": 0.55,
+     "chaos": 0.2,
+     "alpha": 0.7
+    },
+    {
+     "kind": "rings",
+     "color": 0,
+     "count": 6,
+     "size": 0.5,
+     "chaos": 0.6,
+     "alpha": 0.5
+    },
+    {
+     "kind": "shards",
+     "color": 2,
+     "count": 34,
+     "size": 0.4,
+     "chaos": 0.75,
+     "alpha": 0.75
+    },
+    {
+     "kind": "grain",
+     "color": 1,
+     "count": 10,
+     "size": 0.2,
+     "chaos": 0.6,
+     "alpha": 0.6
+    }
+   ]
+  },
+  "sources": [
+   {
+    "title": "NVIDIA株4%安 CEO辞任問題、テック連鎖売りは回避も市場の重荷に",
+    "url": "https://www.nikkei.com/article/DGXZQOGN12CPK0S6A111C2000000/",
+    "role": "真ん中の緑の大きな丸"
+   },
+   {
+    "title": "NVIDIA、ファン氏事実上解任で幕引き急ぐ クレス暫定CEOで後任探し",
+    "url": "https://www.nikkei.com/article/DGXZQOGN12CMY0S6A111C2000000/",
+    "role": "丸のまわりで震える輪"
+   },
+   {
+    "title": "マイクロソフト、「365」世界で大規模障害 メール送れずビジネスに影響",
+    "url": "https://www.nikkei.com/article/DGXZQOGN12CY20S6A111C2000000/",
+    "role": "灰色の格子と青い破片"
+   },
+   {
+    "title": "博報堂DY、20年続けた「競わせる経営」転換 傘下の広告3社統合へ",
+    "url": "https://www.nikkei.com/article/DGXZQOUC115QQ0R11C26A1000000/",
+    "role": "ひとつの向きにそろう流れ"
+   },
+   {
+    "title": "下剤・内視鏡不要の大腸がんAI検査、27年実用化へ新興が55億円調達",
+    "url": "https://www.nikkei.com/article/DGXZQOUC09ANP0Z01C26A1000000/",
+    "role": "桃色のにじみ"
+   },
+   {
+    "title": "ながら日経：経済安保の重要物資 老朽生産設備の国有化検討、ASEANで石油共同備蓄 日本が主導",
+    "url": "https://podcasts.apple.com/jp/podcast/id1627014612",
+    "role": "底の琥珀色の波"
+   }
+  ]
+ },
+ {
   "date": "2026-11-12",
   "title": "古い鋳型と、ほどけた鍵",
   "mood": [

@@ -1,5 +1,98 @@
 [
  {
+  "date": "2026-11-12",
+  "title": "古い鋳型と、ほどけた鍵",
+  "mood": [
+   "守り",
+   "ひび",
+   "冷え"
+  ],
+  "caption": "経済安保で老朽設備を国が抱えるかもという話は、灰色の格子に。8割減のユニコーンは、金利の波にのまれて砕ける破片にしました。クレカ情報の不正アクセスと、インフラを狙うサイバー脅威は、くすんだ赤の粒と見張りの輪。生保の国債は、底でゆっくり揺れる静かな波です。",
+  "art": {
+   "seed": 20261112,
+   "bg": "#e6e4df",
+   "palette": [
+    "#5f6670",
+    "#2f4a6b",
+    "#b8743a",
+    "#9c3b3b",
+    "#c9c2b3"
+   ],
+   "layers": [
+    {
+     "kind": "bloom",
+     "color": 4,
+     "count": 6,
+     "size": 0.8,
+     "chaos": 0.3,
+     "alpha": 0.5
+    },
+    {
+     "kind": "waves",
+     "color": 1,
+     "count": 9,
+     "size": 0.4,
+     "chaos": 0.2,
+     "alpha": 0.55
+    },
+    {
+     "kind": "grid",
+     "color": 0,
+     "count": 12,
+     "size": 0.6,
+     "chaos": 0.15,
+     "alpha": 0.6
+    },
+    {
+     "kind": "shards",
+     "color": 2,
+     "count": 40,
+     "size": 0.45,
+     "chaos": 0.8,
+     "alpha": 0.75
+    },
+    {
+     "kind": "rings",
+     "color": 1,
+     "count": 5,
+     "size": 0.5,
+     "chaos": 0.3,
+     "alpha": 0.6
+    },
+    {
+     "kind": "grain",
+     "color": 3,
+     "count": 14,
+     "size": 0.25,
+     "chaos": 0.7,
+     "alpha": 0.7
+    }
+   ]
+  },
+  "sources": [
+   {
+    "title": "経済安保の重要物資、老朽生産設備の国有化検討 化学・鋳造品など",
+    "url": "https://www.nikkei.com/article/DGXZQOUA11BU90R11C26A1000000/",
+    "role": "灰色の格子（制度で守る）"
+   },
+   {
+    "title": "和製ユニコーンのスマートニュース、金利高とAIで失速 企業価値8割減",
+    "url": "https://www.nikkei.com/article/DGXZQOUC111810R11C26A1000000/",
+    "role": "砕ける琥珀色の破片"
+   },
+   {
+    "title": "良品計画社長「クレカ情報破棄すべきだった」 不正アクセスで謝罪",
+    "url": "https://www.nikkei.com/article/DGXZQOUC10A8K0Q6A111C2000000/",
+    "role": "くすんだ赤の粒"
+   },
+   {
+    "title": "ながら日経：生保が国債買いやすく、重要インフラのサイバー脅威 自衛隊が平時から探知",
+    "url": "https://podcasts.apple.com/jp/podcast/id1627014612",
+    "role": "底の静かな波と、見張りの輪"
+   }
+  ]
+ },
+ {
   "date": "2026-11-11",
   "title": "見張る網と、冬ごもりの光",
   "mood": [

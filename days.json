@@ -1,5 +1,98 @@
 [
  {
+  "date": "2026-11-14",
+  "title": "止まった一日半と、静かな金庫",
+  "mood": [
+   "ひずみ",
+   "回復",
+   "しずか"
+  ],
+  "caption": "マイクロソフトの大きな障害は、真ん中で割れてまた繋がる破片にしました。銀行の大きな利益は、奥でどっしり光る金色の丸です。小論文の休止は几帳面な格子、子どもを望む人が減った話は、薄くにじんで消えていく桃色の粒にしています。止まったものも、もとに戻っていくものもある土曜日でした。",
+  "art": {
+   "seed": 20261114,
+   "bg": "#e9e6df",
+   "palette": [
+    "#3d5a80",
+    "#c9a227",
+    "#8d99ae",
+    "#e5989b",
+    "#2b2d42"
+   ],
+   "layers": [
+    {
+     "kind": "bloom",
+     "color": 3,
+     "count": 9,
+     "size": 0.7,
+     "chaos": 0.3,
+     "alpha": 0.35
+    },
+    {
+     "kind": "grid",
+     "color": 2,
+     "count": 14,
+     "size": 0.4,
+     "chaos": 0.15,
+     "alpha": 0.45
+    },
+    {
+     "kind": "flow",
+     "color": 0,
+     "count": 170,
+     "size": 0.5,
+     "chaos": 0.45,
+     "alpha": 0.7
+    },
+    {
+     "kind": "sun",
+     "color": 1,
+     "count": 1,
+     "size": 0.55,
+     "chaos": 0.1,
+     "alpha": 0.85
+    },
+    {
+     "kind": "shards",
+     "color": 4,
+     "count": 26,
+     "size": 0.45,
+     "chaos": 0.75,
+     "alpha": 0.8
+    },
+    {
+     "kind": "grain",
+     "color": 3,
+     "count": 12,
+     "size": 0.2,
+     "chaos": 0.5,
+     "alpha": 0.5
+    }
+   ]
+  },
+  "sources": [
+   {
+    "title": "マイクロソフトの障害が全面復旧 メールやAI、ほぼ1日半経て",
+    "url": "https://www.nikkei.com/article/DGXZQOUC141CH0U6A111C2000000/",
+    "role": "割れてまた繋がる破片と流れ"
+   },
+   {
+    "title": "三菱UFJなど5大銀行 4〜9月の純利益3.9兆円（ながら日経 11月14日）",
+    "url": "https://podcasts.apple.com/jp/podcast/id1627014612",
+    "role": "金色の大きな丸"
+   },
+   {
+    "title": "入試の小論文「休止」 慶応大経済学部での復活に期待",
+    "url": "https://www.nikkei.com/article/DGXZQOCD0496A0U6A101C2000000/",
+    "role": "格子"
+   },
+   {
+    "title": "子ども「2人目望む」3割で過去最低 物価高や晩産化受け6年で半減",
+    "url": "https://www.nikkei.com/article/DGXZQOUD067MJ0W6A001C2000000/",
+    "role": "にじみと桃色の粒"
+   }
+  ]
+ },
+ {
   "date": "2026-11-13",
   "title": "王座の空白と、止まった手紙",
   "mood": [

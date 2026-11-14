@@ -1,5 +1,85 @@
 [
  {
+  "date": "2026-11-15",
+  "title": "旅の小銭と、まだ揺れる水面",
+  "mood": [
+   "ゆるみ",
+   "ためらい",
+   "やわらか"
+  ],
+  "caption": "観光税に理解が広がっている話は、町から町へ流れていく細い線と、たくさんの小さな粒にしました。脱リフレを市場がまだ信じきれない話は、行ったり来たりする波です。人を傷つけないエーアイ時代の笑いは、やわらかくにじむ明るい色に。日曜らしく、少し肩の力が抜けた一枚です。",
+  "art": {
+   "seed": 20261115,
+   "bg": "#efebe3",
+   "palette": [
+    "#f4a261",
+    "#2a9d8f",
+    "#577590",
+    "#e9c46a",
+    "#6d597a"
+   ],
+   "layers": [
+    {
+     "kind": "bloom",
+     "color": 0,
+     "count": 10,
+     "size": 0.75,
+     "chaos": 0.25,
+     "alpha": 0.4
+    },
+    {
+     "kind": "bloom",
+     "color": 3,
+     "count": 6,
+     "size": 0.6,
+     "chaos": 0.3,
+     "alpha": 0.3
+    },
+    {
+     "kind": "waves",
+     "color": 2,
+     "count": 9,
+     "size": 0.5,
+     "chaos": 0.55,
+     "alpha": 0.65
+    },
+    {
+     "kind": "flow",
+     "color": 1,
+     "count": 140,
+     "size": 0.4,
+     "chaos": 0.35,
+     "alpha": 0.7
+    },
+    {
+     "kind": "grain",
+     "color": 4,
+     "count": 14,
+     "size": 0.2,
+     "chaos": 0.4,
+     "alpha": 0.55
+    }
+   ]
+  },
+  "sources": [
+   {
+    "title": "観光税「悪影響ない」7割、日経市区調査 旅行者が負担に理解",
+    "url": "https://www.nikkei.com/article/DGXZQOCC102D30Q6A111C2000000/",
+    "role": "町をめぐる流れと小さな粒"
+   },
+   {
+    "title": "人を傷つけない「AI時代の笑い」 芸人、放送作家…それぞれの道",
+    "url": "https://www.nikkei.com/article/DGXZQOUD206640Q6A021C2000000/",
+    "role": "やわらかいにじみ"
+   },
+   {
+    "title": "「脱リフレ」まだ信じ切れぬ市場 言葉より行動、日本買い再開の条件",
+    "url": "https://www.nikkei.com/article/DGXZQOUB12CLE0S6A111C2000000/",
+    "role": "行ったり来たりする波"
+   }
+  ]
+ },
+ {
   "date": "2026-11-14",
   "title": "止まった一日半と、静かな金庫",
   "mood": [

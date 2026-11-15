@@ -1,5 +1,85 @@
 [
  {
+  "date": "2026-11-16",
+  "title": "大きな値札と、木の香りの門",
+  "mood": [
+   "高揚",
+   "警戒",
+   "ぬくもり"
+  ],
+  "caption": "エーアイの会社が大きな値段で上場する話は、まん中から勢いよく広がる明るい光にしました。住まいの会社が国産の木を倍に使う話は、まっすぐ伸びる木目のような線です。狙われるブイピーエヌ装置の話は、すき間をうかがう細かい粒に。月曜らしく、期待と用心がまざった一枚です。",
+  "art": {
+   "seed": 20261116,
+   "bg": "#f2ede4",
+   "palette": [
+    "#e76f51",
+    "#8a5a44",
+    "#264653",
+    "#f4d35e",
+    "#6c757d"
+   ],
+   "layers": [
+    {
+     "kind": "bloom",
+     "color": 3,
+     "count": 8,
+     "size": 0.8,
+     "chaos": 0.2,
+     "alpha": 0.45
+    },
+    {
+     "kind": "bloom",
+     "color": 0,
+     "count": 5,
+     "size": 0.55,
+     "chaos": 0.35,
+     "alpha": 0.35
+    },
+    {
+     "kind": "flow",
+     "color": 1,
+     "count": 120,
+     "size": 0.45,
+     "chaos": 0.15,
+     "alpha": 0.7
+    },
+    {
+     "kind": "waves",
+     "color": 2,
+     "count": 6,
+     "size": 0.4,
+     "chaos": 0.4,
+     "alpha": 0.5
+    },
+    {
+     "kind": "grain",
+     "color": 4,
+     "count": 18,
+     "size": 0.2,
+     "chaos": 0.6,
+     "alpha": 0.6
+    }
+   ]
+  },
+  "sources": [
+   {
+    "title": "アンソロピック「220兆円」上場 AIの価値を市場が審判",
+    "url": "https://www.nikkei.com/article/DGXZQOUB129A40S6A111C2000000/",
+    "role": "まん中から広がる明るい光"
+   },
+   {
+    "title": "大東建託が国産木材使用倍増へ 住友林業系から調達、円安で日本産回帰",
+    "url": "https://www.nikkei.com/article/DGXZQOUC052OX0V01C26A1000000/",
+    "role": "木目のような線"
+   },
+   {
+    "title": "狙われるVPN装置、サイバー攻撃が増加パッチ後も侵入の恐れ",
+    "url": "https://www.nikkei.com/article/DGXZQOUC060ES0W6A101C2000000/",
+    "role": "すき間をうかがう粒"
+   }
+  ]
+ },
+ {
   "date": "2026-11-15",
   "title": "旅の小銭と、まだ揺れる水面",
   "mood": [

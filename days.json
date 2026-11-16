@@ -1,5 +1,98 @@
 [
  {
+  "date": "2026-11-17",
+  "title": "見えない線をたどる朝",
+  "mood": [
+   "ざわつき",
+   "ひやり",
+   "少しの安心"
+  ],
+  "caption": "スマホのアプリから位置情報が漏れていく話と、富岳への不正アクセスは、細い線と破片にしました。NVIDIAとOpenAIをめぐる大きな動きは、まんなかの丸にしています。税制改正で住宅や子育ての負担が軽くなる話は、下のほうの格子と、やわらかい色にしました。",
+  "art": {
+   "seed": 20261117,
+   "bg": "#e9ecef",
+   "palette": [
+    "#3a4a6b",
+    "#7fa8c9",
+    "#d95f43",
+    "#e8c37a",
+    "#9bb89a"
+   ],
+   "layers": [
+    {
+     "kind": "bloom",
+     "color": 1,
+     "count": 6,
+     "size": 0.7,
+     "chaos": 0.3,
+     "alpha": 0.35
+    },
+    {
+     "kind": "grid",
+     "color": 4,
+     "count": 10,
+     "size": 0.4,
+     "chaos": 0.15,
+     "alpha": 0.5
+    },
+    {
+     "kind": "flow",
+     "color": 0,
+     "count": 200,
+     "size": 0.35,
+     "chaos": 0.7,
+     "alpha": 0.7
+    },
+    {
+     "kind": "sun",
+     "color": 3,
+     "count": 1,
+     "size": 0.45,
+     "chaos": 0.1,
+     "alpha": 0.85
+    },
+    {
+     "kind": "shards",
+     "color": 2,
+     "count": 24,
+     "size": 0.4,
+     "chaos": 0.8,
+     "alpha": 0.8
+    },
+    {
+     "kind": "grain",
+     "color": 0,
+     "count": 8,
+     "size": 0.2,
+     "chaos": 0.6,
+     "alpha": 0.5
+    }
+   ]
+  },
+  "sources": [
+   {
+    "title": "位置情報の流出ルートを追う 起点はスマホアプリ内の「SDK」",
+    "url": "https://www.nikkei.com/article/DGXZQOCA299FP0Z21C26A0000000/",
+    "role": "紺の細い流れ"
+   },
+   {
+    "title": "NVIDIAファン氏復帰の奇策、OpenAI再現狙う トランプ氏「構わない」",
+    "url": "https://www.nikkei.com/article/DGXZQOGN16BA90W6A111C2000000/",
+    "role": "まんなかの金色の丸"
+   },
+   {
+    "title": "住宅・子育ての負担軽く、27年度税制改正 中小企業賃上げ税制廃止案",
+    "url": "https://www.nikkei.com/article/DGXZQOUA1512S0V11C26A1000000/",
+    "role": "緑の格子"
+   },
+   {
+    "title": "ながら日経：最先端スパコン「富岳」に不正アクセス、Google 最先端AIモデルを日本政府に先行提供",
+    "url": "https://podcasts.apple.com/jp/podcast/id1627014612",
+    "role": "朱色の破片"
+   }
+  ]
+ },
+ {
   "date": "2026-11-16",
   "title": "大きな値札と、木の香りの門",
   "mood": [

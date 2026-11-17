@@ -1,5 +1,98 @@
 [
  {
+  "date": "2026-11-18",
+  "title": "雨あがり、勝ち負けの分かれ道",
+  "mood": [
+   "熱",
+   "分かれ道",
+   "雨あがり"
+  ],
+  "caption": "エヌビディアの売上が9割増えた話は、まんなかの大きな金の丸にしました。エーアイ投資で勝者と敗者が分かれるという話は、左右に割れる破片です。国債の税優遇の見送りと、信金の預金金利の話は、下のほうの静かな格子と波に。ココイチの売却は、カレー色の粒にしています。",
+  "art": {
+   "seed": 20261118,
+   "bg": "#eef0ea",
+   "palette": [
+    "#2f4858",
+    "#e0a526",
+    "#c4472d",
+    "#7aa6b8",
+    "#b8862e"
+   ],
+   "layers": [
+    {
+     "kind": "bloom",
+     "color": 3,
+     "count": 5,
+     "size": 0.75,
+     "chaos": 0.25,
+     "alpha": 0.3
+    },
+    {
+     "kind": "waves",
+     "color": 3,
+     "count": 8,
+     "size": 0.4,
+     "chaos": 0.3,
+     "alpha": 0.55
+    },
+    {
+     "kind": "grid",
+     "color": 0,
+     "count": 9,
+     "size": 0.35,
+     "chaos": 0.1,
+     "alpha": 0.45
+    },
+    {
+     "kind": "sun",
+     "color": 1,
+     "count": 1,
+     "size": 0.55,
+     "chaos": 0.1,
+     "alpha": 0.9
+    },
+    {
+     "kind": "shards",
+     "color": 2,
+     "count": 20,
+     "size": 0.45,
+     "chaos": 0.75,
+     "alpha": 0.75
+    },
+    {
+     "kind": "grain",
+     "color": 4,
+     "count": 7,
+     "size": 0.25,
+     "chaos": 0.5,
+     "alpha": 0.6
+    }
+   ]
+  },
+  "sources": [
+   {
+    "title": "NVIDIA、11〜1月期の売上高9割増 ファン氏CEO辞任後初の決算発表",
+    "url": "https://www.nikkei.com/article/DGXZQOGN164EP0W6A111C2000000/",
+    "role": "まんなかの金の丸"
+   },
+   {
+    "title": "JPモルガン社長「AI投資、勝者と敗者分かれる局面」 変動は必然",
+    "url": "https://www.nikkei.com/article/DGXZQOGN1308L0T11C26A1000000/",
+    "role": "左右に割れる朱の破片"
+   },
+   {
+    "title": "個人向け国債、税優遇見送り NISA追加は「貯蓄から投資」に合わず",
+    "url": "https://www.nikkei.com/article/DGXZQOUA1507K0V11C26A1000000/",
+    "role": "紺の格子"
+   },
+   {
+    "title": "ながら日経：信金の預金金利 8割が銀行下回る、ハウス食品Gの「ココイチ」売却",
+    "url": "https://podcasts.apple.com/jp/podcast/id1627014612",
+    "role": "水色の波とカレー色の粒"
+   }
+  ]
+ },
+ {
   "date": "2026-11-17",
   "title": "見えない線をたどる朝",
   "mood": [

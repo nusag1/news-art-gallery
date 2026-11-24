@@ -1,5 +1,106 @@
 [
  {
+  "date": "2026-11-25",
+  "title": "くもり空、ほどける期待",
+  "mood": [
+   "ざわつき",
+   "冷え",
+   "めばえ"
+  ],
+  "caption": "公開価格を下回ったAI企業の株は、いちばん大きな赤い丸に。ナスダックの急な反落は、その丸から割れ落ちる破片にしました。人口減少に向き合う次の10年の話は、下から上へ流れる若草色の線。新しい貸金業の決まりはうすい格子、都心のマンション価格は足もとの青灰の波です。",
+  "art": {
+   "seed": 20261125,
+   "bg": "#e6e3dd",
+   "palette": [
+    "#4b5d6e",
+    "#b5473c",
+    "#7fa36b",
+    "#c7b389",
+    "#9fb0bd"
+   ],
+   "layers": [
+    {
+     "kind": "bloom",
+     "color": 4,
+     "count": 12,
+     "size": 0.8,
+     "chaos": 0.4,
+     "alpha": 0.5
+    },
+    {
+     "kind": "waves",
+     "color": 0,
+     "count": 12,
+     "size": 0.5,
+     "chaos": 0.25,
+     "alpha": 0.6
+    },
+    {
+     "kind": "grid",
+     "color": 3,
+     "count": 10,
+     "size": 0.5,
+     "chaos": 0.15,
+     "alpha": 0.5
+    },
+    {
+     "kind": "flow",
+     "color": 2,
+     "count": 140,
+     "size": 0.45,
+     "chaos": 0.35,
+     "alpha": 0.75
+    },
+    {
+     "kind": "sun",
+     "color": 1,
+     "count": 1,
+     "size": 0.6,
+     "chaos": 0.2,
+     "alpha": 0.85
+    },
+    {
+     "kind": "shards",
+     "color": 1,
+     "count": 26,
+     "size": 0.4,
+     "chaos": 0.85,
+     "alpha": 0.75
+    },
+    {
+     "kind": "grain",
+     "color": 0,
+     "count": 25,
+     "size": 0.3,
+     "chaos": 0.5,
+     "alpha": 0.4
+    }
+   ]
+  },
+  "sources": [
+   {
+    "title": "アンソロピック株一時14%安、公開価格下回る 収益化や債務懸念が重荷",
+    "url": "https://www.nikkei.com/article/DGXZQOGN2301I0T21C26A1000000/",
+    "role": "赤い大きな丸"
+   },
+   {
+    "title": "「真の成長戦略」で人口減少に克つ 描く次の豊かな10年",
+    "url": "https://www.nikkei.com/article/DGXZQOCD071VU0X01C26A1000000/",
+    "role": "若草色の流れ"
+   },
+   {
+    "title": "ナスダック一転1.5%安 AI投資と利上げの二重不安 迫る弱気相場の影",
+    "url": "https://www.nikkei.com/article/DGXZQOGN24BJ10U6A121C2000000/",
+    "role": "割れ落ちる破片"
+   },
+   {
+    "title": "ながら日経 11月25日（水）消費者金融ではない「貸金業」新設へ、都心の中古マンション価格 13年半ぶり前年割れ",
+    "url": "https://podcasts.apple.com/jp/podcast/id1627014612",
+    "role": "うすい格子と青灰の波"
+   }
+  ]
+ },
+ {
   "date": "2026-11-24",
   "title": "雨の午後、高い窓が沈む",
   "mood": [

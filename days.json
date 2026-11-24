@@ -1,5 +1,106 @@
 [
  {
+  "date": "2026-11-24",
+  "title": "雨の午後、高い窓が沈む",
+  "mood": [
+   "冷え",
+   "ざわつき",
+   "用心"
+  ],
+  "caption": "13年半ぶりに前の年を下回った都心の中古マンションは、ゆっくり下りる青い波に。AI投資の過熱に手綱をかける台湾の動きは、熱い橙の丸と、それを囲む格子に。ポイントの不正アクセスは、ひび割れて飛び散る破片に。住友商事の新しいファンドと、日本で広がるAIの導入は、細い金の流れにしました。",
+  "art": {
+   "seed": 20261124,
+   "bg": "#e3e6e8",
+   "palette": [
+    "#2f4a63",
+    "#7f9bb0",
+    "#e07a3f",
+    "#8c2f3a",
+    "#c9a24a"
+   ],
+   "layers": [
+    {
+     "kind": "bloom",
+     "color": 1,
+     "count": 10,
+     "size": 0.8,
+     "chaos": 0.4,
+     "alpha": 0.5
+    },
+    {
+     "kind": "waves",
+     "color": 0,
+     "count": 16,
+     "size": 0.6,
+     "chaos": 0.3,
+     "alpha": 0.7
+    },
+    {
+     "kind": "flow",
+     "color": 4,
+     "count": 110,
+     "size": 0.4,
+     "chaos": 0.45,
+     "alpha": 0.7
+    },
+    {
+     "kind": "sun",
+     "color": 2,
+     "count": 1,
+     "size": 0.5,
+     "chaos": 0.2,
+     "alpha": 0.85
+    },
+    {
+     "kind": "grid",
+     "color": 0,
+     "count": 9,
+     "size": 0.5,
+     "chaos": 0.2,
+     "alpha": 0.45
+    },
+    {
+     "kind": "shards",
+     "color": 3,
+     "count": 22,
+     "size": 0.4,
+     "chaos": 0.8,
+     "alpha": 0.75
+    },
+    {
+     "kind": "grain",
+     "color": 0,
+     "count": 25,
+     "size": 0.3,
+     "chaos": 0.5,
+     "alpha": 0.4
+    }
+   ]
+  },
+  "sources": [
+   {
+    "title": "都心の中古マンション価格、13年半ぶり前年割れ 金利上昇で退潮",
+    "url": "https://www.nikkei.com/article/DGXZQOUB094PF0Z01C26A1000000/",
+    "role": "下りていく青い波"
+   },
+   {
+    "title": "台湾当局、AI投資の過熱警戒で空売り規制 中韓も相次ぎ市場安定策",
+    "url": "https://www.nikkei.com/article/DGXZQOGM2330S0T21C26A1000000/",
+    "role": "橙の丸と、それを囲む格子"
+   },
+   {
+    "title": "相次ぐ不正アクセス、ポイント経済圏に転機 個人情報収集に再考迫る",
+    "url": "https://www.nikkei.com/article/DGXZQOCD184QC0Y6A111C2000000/",
+    "role": "赤い破片"
+   },
+   {
+    "title": "ながら日経：アンソロピックのClaude 日本の導入企業10倍に／住友商事が中小企業投資の新ファンド",
+    "url": "https://podcasts.apple.com/jp/podcast/id1627014612",
+    "role": "金の細い流れ"
+   }
+  ]
+ },
+ {
   "date": "2026-11-18",
   "title": "雨あがり、勝ち負けの分かれ道",
   "mood": [

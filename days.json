@@ -1,5 +1,114 @@
 [
  {
+  "date": "2026-11-26",
+  "title": "約束の重さをはかる朝",
+  "mood": [
+   "はりつめ",
+   "重さ",
+   "くもり"
+  ],
+  "caption": "データで政権に食いこむ会社の話は、まん中の紫紺の丸と、まわりを見わたす輪に。もとの高さへもどった関税は、ぶつかり合う赤茶の破片です。ベネズエラの大きな債務は、足もとに沈む青緑の波。財源のやりくりはうすい金色の格子に、沖縄の新型機は空を横切る灰色の流れにしました。",
+  "art": {
+   "seed": 20261126,
+   "bg": "#e4e2e0",
+   "palette": [
+    "#443a63",
+    "#a8553f",
+    "#3f6f73",
+    "#c2a564",
+    "#8d97a3"
+   ],
+   "layers": [
+    {
+     "kind": "bloom",
+     "color": 4,
+     "count": 12,
+     "size": 0.8,
+     "chaos": 0.4,
+     "alpha": 0.5
+    },
+    {
+     "kind": "waves",
+     "color": 2,
+     "count": 14,
+     "size": 0.6,
+     "chaos": 0.3,
+     "alpha": 0.65
+    },
+    {
+     "kind": "grid",
+     "color": 3,
+     "count": 10,
+     "size": 0.5,
+     "chaos": 0.15,
+     "alpha": 0.5
+    },
+    {
+     "kind": "flow",
+     "color": 4,
+     "count": 150,
+     "size": 0.5,
+     "chaos": 0.3,
+     "alpha": 0.7
+    },
+    {
+     "kind": "rings",
+     "color": 0,
+     "count": 7,
+     "size": 0.6,
+     "chaos": 0.2,
+     "alpha": 0.6
+    },
+    {
+     "kind": "sun",
+     "color": 0,
+     "count": 1,
+     "size": 0.5,
+     "chaos": 0.2,
+     "alpha": 0.85
+    },
+    {
+     "kind": "shards",
+     "color": 1,
+     "count": 22,
+     "size": 0.4,
+     "chaos": 0.8,
+     "alpha": 0.75
+    },
+    {
+     "kind": "grain",
+     "color": 2,
+     "count": 22,
+     "size": 0.3,
+     "chaos": 0.5,
+     "alpha": 0.4
+    }
+   ]
+  },
+  "sources": [
+   {
+    "title": "米政権に食い込むパランティア イラン爆撃や移民監視、AI利用いとわず",
+    "url": "https://www.nikkei.com/article/DGXZQOGN213W90R20C26A8000000/",
+    "role": "紫紺の大きな丸と輪"
+   },
+   {
+    "title": "トランプ政権が新関税、日本15%・中国20% 違憲判決前の水準に逆戻り",
+    "url": "https://www.nikkei.com/article/DGXZQOGN25CDT0V21C26A1000000/",
+    "role": "ぶつかる破片"
+   },
+   {
+    "title": "ベネズエラ債務38兆円、GDP2.4倍 過去最大級の債務整理の可能性",
+    "url": "https://www.nikkei.com/article/DGXZQOGN25CFM0V21C26A1000000/",
+    "role": "沈む青緑の波"
+   },
+   {
+    "title": "ながら日経 11月26日（木）安保強化へ財政配慮を 財源確保「国民負担も」、 米軍 沖縄に新型戦闘機「F15EX」を常駐",
+    "url": "https://podcasts.apple.com/jp/podcast/id1627014612",
+    "role": "うすい格子と、空を横切る流れ"
+   }
+  ]
+ },
+ {
   "date": "2026-11-25",
   "title": "くもり空、ほどける期待",
   "mood": [

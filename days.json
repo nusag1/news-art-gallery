@@ -1,5 +1,98 @@
 [
  {
+  "date": "2026-11-27",
+  "title": "暗黙知の格子に、電気が流れこむ朝",
+  "mood": [
+   "ざわつき",
+   "熱",
+   "ひかえめ"
+  ],
+  "caption": "東京電力がAIの電気に10兆円という話を、画面いっぱいの大きな黄色い丸にしました。日本の大企業を狙うアクティビストは、外から刺さる赤い破片。工場に眠る暗黙知は青い格子で、AIがその間を流れていくイメージです。受刑者の食費とインフレの話は、隅で小さく散らばる茶色の粒にしました。",
+  "art": {
+   "seed": 20261127,
+   "bg": "#eee9df",
+   "palette": [
+    "#2f4a6d",
+    "#e8b923",
+    "#c2412d",
+    "#7a5a3a",
+    "#8fb3c9"
+   ],
+   "layers": [
+    {
+     "kind": "bloom",
+     "color": 4,
+     "count": 6,
+     "size": 0.7,
+     "chaos": 0.3,
+     "alpha": 0.35
+    },
+    {
+     "kind": "grid",
+     "color": 0,
+     "count": 14,
+     "size": 0.5,
+     "chaos": 0.2,
+     "alpha": 0.55
+    },
+    {
+     "kind": "flow",
+     "color": 4,
+     "count": 180,
+     "size": 0.45,
+     "chaos": 0.5,
+     "alpha": 0.7
+    },
+    {
+     "kind": "sun",
+     "color": 1,
+     "count": 1,
+     "size": 0.6,
+     "chaos": 0.1,
+     "alpha": 0.85
+    },
+    {
+     "kind": "shards",
+     "color": 2,
+     "count": 22,
+     "size": 0.4,
+     "chaos": 0.7,
+     "alpha": 0.8
+    },
+    {
+     "kind": "grain",
+     "color": 3,
+     "count": 8,
+     "size": 0.2,
+     "chaos": 0.5,
+     "alpha": 0.6
+    }
+   ]
+  },
+  "sources": [
+   {
+    "title": "11月27日（金）東京電力 AIインフラに10兆円、キオクシア AIメモリーで韓国勢の代替狙う",
+    "url": "https://podcasts.apple.com/jp/podcast/id1627014612",
+    "role": "大きな黄色い丸（sun）"
+   },
+   {
+    "title": "アクティビスト、日本の大企業に照準 26年の投資は600件超え最多",
+    "url": "https://www.nikkei.com/article/DGXZQOUB2781V0X21C26A0000000/",
+    "role": "赤い破片（shards）"
+   },
+   {
+    "title": "日本のものづくり、AIでカイゼンを 現場に眠る「暗黙知」は宝の山",
+    "url": "https://www.nikkei.com/article/DGXZQOCD05B430V01C26A1000000/",
+    "role": "青い格子と流れ（grid・flow）"
+   },
+   {
+    "title": "受刑者「3食600円」に食材インフレの壁 ハヤシライスから肉消えた",
+    "url": "https://www.nikkei.com/article/DGXZQODK274G50X21C26A0000000/",
+    "role": "茶色の粒（grain）"
+   }
+  ]
+ },
+ {
   "date": "2026-11-26",
   "title": "約束の重さをはかる朝",
   "mood": [

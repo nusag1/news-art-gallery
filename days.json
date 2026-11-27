@@ -1,5 +1,98 @@
 [
  {
+  "date": "2026-11-28",
+  "title": "肩書きの格子がほどける、雨の土曜",
+  "mood": [
+   "しずか",
+   "ほどける",
+   "ゆたか"
+  ],
+  "caption": "エーアイで管理職の階層が消えていく話を、くずれかけた灰色の格子にしました。初めて資産超過になった企業年金は、下からふくらむ緑のにじみ。東京のオフィス賃料が世界でいちばん伸びた話は、まん中の大きな金色の丸です。エヌビディアをめぐる国どうしの事情は、外へ広がる紺の輪にしました。",
+  "art": {
+   "seed": 20261128,
+   "bg": "#e9ebe8",
+   "palette": [
+    "#6f7780",
+    "#5f9a6e",
+    "#d4a83a",
+    "#27375a",
+    "#a9c3cf"
+   ],
+   "layers": [
+    {
+     "kind": "bloom",
+     "color": 1,
+     "count": 7,
+     "size": 0.75,
+     "chaos": 0.3,
+     "alpha": 0.4
+    },
+    {
+     "kind": "grid",
+     "color": 0,
+     "count": 12,
+     "size": 0.5,
+     "chaos": 0.75,
+     "alpha": 0.5
+    },
+    {
+     "kind": "waves",
+     "color": 4,
+     "count": 9,
+     "size": 0.4,
+     "chaos": 0.3,
+     "alpha": 0.5
+    },
+    {
+     "kind": "rings",
+     "color": 3,
+     "count": 6,
+     "size": 0.55,
+     "chaos": 0.25,
+     "alpha": 0.6
+    },
+    {
+     "kind": "sun",
+     "color": 2,
+     "count": 1,
+     "size": 0.45,
+     "chaos": 0.1,
+     "alpha": 0.85
+    },
+    {
+     "kind": "grain",
+     "color": 4,
+     "count": 10,
+     "size": 0.15,
+     "chaos": 0.6,
+     "alpha": 0.55
+    }
+   ]
+  },
+  "sources": [
+   {
+    "title": "｢もう管理職はいらない｣ 震源はシリコンバレー、AIで消える肩書と階層",
+    "url": "https://www.nikkei.com/article/DGXZQOGN246EE0U6A121C2000000/",
+    "role": "くずれる灰色の格子（grid）"
+   },
+   {
+    "title": "企業年金が初の資産超過、25年度 余剰分を成長投資や加入者還元に",
+    "url": "https://www.nikkei.com/article/DGXZQOUB198VE0Z11C26A0000000/",
+    "role": "緑のにじみ（bloom）"
+   },
+   {
+    "title": "世界のオフィス賃料・価格、東京が伸びトップ 人材確保へ際立つ需要",
+    "url": "https://www.nikkei.com/article/DGXZQOUB200UR0Q6A121C2000000/",
+    "role": "金色の大きな丸（sun）"
+   },
+   {
+    "title": "地政学ラジオ 第16回「世界を揺るがすエヌビディア問題の行方」",
+    "url": "https://podcasts.apple.com/jp/podcast/id1896002121",
+    "role": "紺の輪（rings）"
+   }
+  ]
+ },
+ {
   "date": "2026-11-27",
   "title": "暗黙知の格子に、電気が流れこむ朝",
   "mood": [
